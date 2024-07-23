@@ -7,28 +7,28 @@
     "modelUrl": "https://teachablemachine.withgoogle.com/models/T28Pg9RQl/",
     "classDetails": [
         {
-            "name": "강아지",
+            "name": "강아지상",
             "title": "강아지상",
             "explain": "당신은 정말  친근하고 다정다감하게 생겼다. 특징을 잘 살려서 좋은 친구를 만들자",
             "celeb": "",
             "color": "rgba(27, 175, 234, 1)"
         },
         {
-            "name": "사막여우",
+            "name": "사막여우상",
             "title": "사막여우상",
             "explain": "당신은 한번 보면 다시 헤어나올 수 없는 매력을 가지고 있다. 사막여우상은 특별하니 잘 살리도록",
             "celeb": "",
             "color": "rgba(251, 176, 59, 1)"
         },
         {
-            "name": "고양이",
+            "name": "고양이상",
             "title": "고양이상",
             "explain": "당신은 도도하게 생겼다! 고양이상은 날렵한 얼굴을 가지고 있다. 당신의 특징에 감사하도록",
             "celeb": "",
             "color": "rgba(265, 100, 50, 1)"
         },
         {
-            "name": "돼지",
+            "name": "돼지상",
             "title": "돼지상",
             "explain": "당신은 얼굴이 부은 돼지상이다. 자신의 얼굴이 통통하지 않은지 의심해보도록",
             "celeb": "",
